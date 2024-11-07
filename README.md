@@ -1,6 +1,6 @@
 # Kana
 
-[English](README.md) | [中文](docs/README_zh.md)
+[English](README.md) | [中文](docs/README_zh.md) | [Demo](https://lets.go50.store)
 
 A minimal and efficient trainer for mastering Japanese Kana recognition speed. Practice your Hiragana and Katakana recognition with instant feedback and performance tracking.
 
@@ -50,10 +50,10 @@ Built with:
 ### Local Setup 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gojuon-sprint.git
+git clone https://github.com/Plasma-Blue/Kana
 
 # Navigate to project directory
-cd gojuon-sprint
+cd Kana
 
 # Install dependencies
 npm install

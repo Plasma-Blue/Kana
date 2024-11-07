@@ -23,7 +23,7 @@ export function Footer({ isDarkMode }: Props) {
       </p>
       <p className="text-sm">
         <a 
-          href="https://github.com/your-username/your-repo" 
+          href="https://github.com/Plasma-Blue/Kana" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-indigo-500 hover:text-indigo-600 transition-colors inline-flex items-center gap-1 justify-center"

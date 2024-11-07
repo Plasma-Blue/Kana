@@ -1,6 +1,6 @@
 # Kana
 
-[English](README.md) | [中文](docs/README_zh.md)
+[English](README.md) | [中文](docs/README_zh.md) | [Demo](https://lets.go50.store)
 
 一个简洁高效的假名认知速度训练工具。通过即时反馈和性能跟踪来练习平假名和片假名的快速识别。
 
@@ -50,10 +50,10 @@
 ### 本地设置
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gojuon-sprint.git
+git clone https://github.com/Plasma-Blue/Kana.git  
 
 # Navigate to project directory
-cd gojuon-sprint
+cd Kana
 
 # Install dependencies
 npm install
