@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Noto Sans JP';
+    src: url('https://fonts.font.im/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+  }
+}
+
+.font-japanese {
+  font-family: 'Noto Sans JP', sans-serif;
+}
