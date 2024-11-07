@@ -10,8 +10,8 @@
     <th width="50%">Dark Mode</th>
   </tr>
   <tr>
-    <td><img src="docs/light.png" alt="Light Mode"></td>
-    <td><img src="docs/dark.png" alt="Dark Mode"></td>
+    <td><img src="light.png" alt="Light Mode"></td>
+    <td><img src="dark.png" alt="Dark Mode"></td>
   </tr>
 </table>
 
