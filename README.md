@@ -79,9 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Made with ♥ by [Ryo](https://github.com/plasma-blue)
 - Built with [Cursor](https://cursor.sh)
 - Inspired by the need for efficient Japanese character recognition training
-
----
-
-<p align="center">
-  Made with ♥ by <a href="https://cursor.sh">Cursor</a>
-</p>

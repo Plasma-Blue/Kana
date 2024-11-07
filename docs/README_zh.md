@@ -81,9 +81,3 @@ npm run dev
 - 由 [Ryo](https://github.com/plasma-blue) 用 ♥ 制作
 - 使用 [Cursor](https://cursor.sh) 构建
 - 灵感来自于对高效日语字符识别训练的需求
-
----
-
-<p align="center">
-  Made with ♥ by <a href="https://cursor.sh">Cursor</a>
-</p>
